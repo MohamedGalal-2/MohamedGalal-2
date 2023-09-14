@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=flat-square&label=VIEWS">
    Welcome to <em>Mohamed Galal</em>'s profile! 
-  <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=flat-square&label=VIEWS">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
