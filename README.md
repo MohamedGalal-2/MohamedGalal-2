@@ -2,8 +2,11 @@
 <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
 <h3 align="center">
-  Welcome to Mohamed Galal's profile!
+  Welcome to Mohamed Galal's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+  <a href="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=for-the-badge">
+</a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -36,6 +39,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=for-the-badge">
-</a>
+
