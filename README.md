@@ -7,7 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&width=435&lines=Embedded+Systems+Engineer;%22You+only+fail+when+you+stop+trying%22" alt="Typing SVG" /></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgalal-2&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgalal-2" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedgalal-2&show_icons=true&locale=en&layout=compact" alt="mohamedgalal-2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedgalal-2&show_icons=true&locale=en" alt="mohamedgalal-2" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgalal-2&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgalal-2" /> </p>
+
