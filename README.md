@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://tenor.com/bezWC.gif">
+<img width="250" align="right" src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif">
 
 <h3 align="center">
   Welcome to Mohamed Galal's profile!
