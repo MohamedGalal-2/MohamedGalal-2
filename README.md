@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Communications and Electronics Engineer.
 - 👨‍💻 As a an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🤖 I build my projects using Arduino -AVR- and currently learning Embedded C and Microcontroller Interfacing.
 
 
 ### Conatct Me :
