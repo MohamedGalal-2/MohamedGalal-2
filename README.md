@@ -4,7 +4,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&width=435&lines=Embedded+Systems+Engineer;%22You+only+fail+when+you+stop+trying%22" alt="Typing SVG" /></a>
 </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgalal-2&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgalal-2" /> </p>
