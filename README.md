@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Engineer;%26Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Engineer;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Communications and Electronics Engineer.
