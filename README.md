@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
 <h3 align="center">
   Welcome to Mohamed Galal's profile!
