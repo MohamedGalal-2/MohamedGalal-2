@@ -1,3 +1,5 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <h3 align="center">A passionate Embedded Systems Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgalal-2&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgalal-2" /> </p>
