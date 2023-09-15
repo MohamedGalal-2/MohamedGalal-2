@@ -17,7 +17,7 @@
 - 🗃️ I use MSSQL Server and AWS RDS to build databases and built a database of 6000 volunteers for a student activity. 
 
 
-### Conatct Me :
+## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me:
 
 <a href="https://www.linkedin.com/in/mohamed--galal/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Galal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mgalal12" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Galal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
