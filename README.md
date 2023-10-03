@@ -39,10 +39,19 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
+<img align="middle" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" class="center">
+
+center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
 <br>
+
 
 
 
