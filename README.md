@@ -40,4 +40,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+
+
 
