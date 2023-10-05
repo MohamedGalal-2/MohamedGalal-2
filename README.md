@@ -11,7 +11,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Communications and Electronics Engineer.
+- 🏢 Communications and Electronics Engineer.
 - 👨‍💻 As a an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🤖 I build my projects using Arduino -AVR- and currently learning Embedded C and Microcontroller Interfacing.
 - 🗃️ I use MSSQL Server and AWS RDS to build databases and built a database of 6000 volunteers for a student activity. 
