@@ -14,7 +14,6 @@
 - 🏢 Communications and Electronics Engineer.
 - 👨‍💻 As a an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🤖 Currently learning Microcontroller Interfacing using PIC, AVR and ARM.
-- 🗃️ I used MSSQL Server and AWS RDS to build databases and built a database of 6000 volunteers for a student activity. 
 
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
