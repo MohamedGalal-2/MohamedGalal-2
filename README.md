@@ -28,7 +28,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="2.3%"> Tech Stack
 
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge&logo=microchip&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge&logo=microchip&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
@@ -42,7 +42,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-0A56A5?style=for-the-badge&logo=microchip&logoColor=white)
+![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-0A56A5?style=for-the-badge&logo=microchip&logoColor=white)&nbsp;
 ![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
