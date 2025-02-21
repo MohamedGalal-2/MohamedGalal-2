@@ -31,6 +31,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&color=44A833)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-white?style=for-the-badge&color=44A833)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -42,7 +43,6 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
-![Proteus](https://img.shields.io/badge/JAVA-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
