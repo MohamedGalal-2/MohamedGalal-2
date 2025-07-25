@@ -11,9 +11,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 Communications and Electronics Engineer.
-- 👨‍💻 As a an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🤖 Currently learning Microcontroller Interfacing using PIC, AVR and ARM.
+👋 Hi, I’m Mohamed Galal — a passionate Embedded & Cloud enthusiast.
+
+🎓 Final-year Electronics & Communication Engineering student  
+💻 I build smart systems combining C/C++, IoT, and cloud technologies  
+🛠️ Skilled in: Embedded C, RTOS, MQTT, STM32, ESP32, Docker, Oracle Cloud  
+🎯 Currently: 
+  - Finalizing an Embedded Systems diploma
+  - Preparing for ISTQB certification
+  - Exploring Oracle Cloud & DevOps solutions
+
+🔗 Projects & achievements below — feel free to connect!
+
 
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
