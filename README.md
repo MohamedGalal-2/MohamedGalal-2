@@ -54,6 +54,7 @@
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=radical" alt="GitHub Stats" />
