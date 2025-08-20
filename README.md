@@ -58,6 +58,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
        alt="GitHub Stats" style="margin: 0 12px;" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?MohamedGalal-2=anuraghazra&repo=github-readme-stats)](https://github.com/MohamedGalal-2/Traffic_and_Car_Monitoring_System)
+
 <br>
 
 
