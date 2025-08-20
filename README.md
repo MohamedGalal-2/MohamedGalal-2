@@ -53,14 +53,10 @@
 ![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
-
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=synthwave&cache_seconds=28800&v=4"
-       alt="Top Languages" width="400" style="margin: 0 12px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=synthwave&cache_seconds=28800&v=4"
-       alt="GitHub Stats" width="400" style="margin: 0 12px;" />
-</div>
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=outrun&cache_seconds=28800&v=5"
+       alt="Top Languages" style="margin: 0 12px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
+       alt="GitHub Stats" style="margin: 0 12px;" />
 
 <br>
 
