@@ -58,7 +58,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
        alt="GitHub Stats" style="margin: 0 12px;" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?MohamedGalal-2=anuraghazra&repo=github-readme-stats)](https://github.com/MohamedGalal-2/Traffic_and_Car_Monitoring_System)
+
+<br clear="left"/>
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lxcjNrY2Qwc2N5czBtMW9iNzFhYmR0Y3FsOWNpdXN2dmZmcnhzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WV9R2niZMMbcE5a9um/giphy.gif" width ="2.3%"> Repositories
+
+[![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=MohamedGalal-2&repo=Traffic_and_Car_Monitoring_System&theme=outrun&v=6)](https://github.com/MohamedGalal-2/Traffic_and_Car_Monitoring_System)
 
 <br>
 
