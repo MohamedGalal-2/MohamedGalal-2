@@ -23,8 +23,6 @@
 
 🔗 Projects & achievements below — feel free to connect!
 
-
-
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
 
 <a href="mailto:mohamed.gallall12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -57,13 +55,6 @@
        alt="Top Languages" style="margin: 0 12px;" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
        alt="GitHub Stats" style="margin: 0 12px;" />
-
-
-<br clear="left"/>
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJoeTI5bjU4eWFhMHpxM2FmZWl3ZHk2Y2VpYmQ1bnV0cmZmbGQ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width ="2.3%"> Repositories
-
-[![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=MohamedGalal-2&repo=Traffic_and_Car_Monitoring_System&theme=outrun&v=6)](https://github.com/MohamedGalal-2/Traffic_and_Car_Monitoring_System)
 
 <br>
 
