@@ -54,10 +54,13 @@
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=synthwave&cache_seconds=28800&v=3"
-       alt="Top Languages" width="350" height="250" style="display:inline-block; margin:0 12px;" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=synthwave&cache_seconds=28800&v=3"
-       alt="GitHub Stats" width="350" height="250" style="display:inline-block; margin:0 12px;" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=synthwave&cache_seconds=28800&v=4"
+       alt="Top Languages" width="400" style="margin: 0 12px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=synthwave&cache_seconds=28800&v=4"
+       alt="GitHub Stats" width="400" style="margin: 0 12px;" />
+</div>
+
 
 <br>
 
