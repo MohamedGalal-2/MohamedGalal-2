@@ -55,7 +55,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <br>
 
